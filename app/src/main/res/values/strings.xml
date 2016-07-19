@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">CodeBoard</string>
-    <string name="codeboard_ime">CodeBoard IME</string>
-    <string name="subtype_en_US">CodeBoard(En)</string>
+    <string name="app_name">LazyKeys</string>
+    <string name="codeboard_ime">LazyKeys</string>
+    <string name="subtype_en_US">EN: US</string>
     <string name="printf">printf("");</string>
+    <string name="word_1">100,100,100</string>
 </resources>
